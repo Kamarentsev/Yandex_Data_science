@@ -6,9 +6,9 @@
 
 ## [Специалист по Data Science](https://praktikum.yandex.ru/data-scientist) (январь 2024 — сентябрь 2024):
 
-:mortar_board: [Диплом о профессиональной переподготовке «Специалист по Data Science»]()
+:mortar_board: [Диплом о профессиональной переподготовке «Специалист по Data Science»](https://github.com/Kamarentsev/Yandex_Data_science/blob/main/%D0%94%D0%B8%D0%BF%D0%BB%D0%BE%D0%BC%20DS/%D0%94%D0%B8%D0%BF%D0%BB%D0%BE%D0%BC_RU_%D0%9A%D0%B0%D0%BC%D0%B0%D1%80%D0%B5%D0%BD%D1%86%D0%B5%D0%B2_2024-7530-006.pdf)
 
-:mortar_board: [Certificate ENG]()
+:mortar_board: [Certificate ENG](https://github.com/Kamarentsev/Yandex_Data_science/blob/main/%D0%94%D0%B8%D0%BF%D0%BB%D0%BE%D0%BC%20DS/%D0%A1ertificate_ENG_%D0%9A%D0%B0%D0%BC%D0%B0%D1%80%D0%B5%D0%BD%D1%86%D0%B5%D0%B2_2024-7530-006.pdf)
 
 | Спринт | Название проекта | Цель проекта | Используемые библиотеки и модули |
 | ------------------------- | ----- | ----------- | ---------- | 
