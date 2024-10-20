@@ -7,6 +7,7 @@
 ## [Специалист по Data Science](https://praktikum.yandex.ru/data-scientist) (январь 2024 — сентябрь 2024):
 
 :mortar_board: [Диплом о профессиональной переподготовке «Специалист по Data Science»]()
+
 :mortar_board: [Certificate ENG]()
 
 | Спринт | Название проекта | Цель проекта | Используемые библиотеки и модули |
